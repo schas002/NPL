@@ -12,11 +12,10 @@ Necesa PUBLIKA LICENSE
 Kondiĉoj POR COPYING, dissendo kaj modifo
 
 0. La permesilo estas necesa, por ke la homo kompreni ili povas uzi, modifi,
-     disdoni, transdoni, aĉeti, vendi, kredito, senkreditigi, transformi, 
-     mutate, aŭ mutili ĉi tiun verkon kiel ili deziras.
+    disdoni, transdoni, aĉeti, vendi, kredito, senkreditigi, transformi,
+    mutate, aŭ mutili ĉi tiun verkon kiel ili deziras.
 
 1. Vi rajtas fari kion vi volas kun tiu verko, aŭ ne, ĝi estas via
-     decido, kial vi miksas MIN en cxio cxi tio?
+    decido, kial vi miksas MIN en cxio cxi tio?
 
 2. GET ON KUN IT JAM
-

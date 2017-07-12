@@ -1,35 +1,30 @@
-NPL - The Necessary Public License v1
----
-#Contents of the license
+# Necessary-Public-License
 
-    NECESSARY PUBLIC LICENSE
-    Version 1, October 2012
+> The Necessary Public License
 
-    Copyleft 2012 Michael Springer <mail@michaelspringer.net>
-    Copyleft 2012 Joel Kirchartz <me@jkirchartz.com>
+with the acronym `NPL`.
 
-    Everyone is permitted to copy and distribute verbatim or modified
-    copies of this license document, and changing it is allowed as long
-    as the name is changed or whatever, this is just here out of necessity.
+## Usage
 
-    NECESSARY PUBLIC LICENSE
-    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+Basically, you put the contents of file `NPL.txt` in this repository into file `LICENSE`. That's all there is to it.
 
-    0. This license is necessary, for people to understand they can use, modify, 
-        distribute, transfer, buy, sell, credit, discredit, transform, mutate, or 
-        mutilate this work as they wish
+You can also include a header comment:
 
-    1. You have the right to do whatever you want with this work, or not, it's your 
-        decision, why are you mixing ME up in all this?
+```
+[name of program] Copyleft [yyyy-yyyy], [name of author]
+Licensed under the NPL v1 <https//github.com/mspringer/NPL>
+```
 
-    2. GET ON WITH IT ALREADY
+## Maintainer
 
-Thats it.
+- Andrew Zyabin - @schas002 - [@zyabin101@botsin.space](https://botsin.space/@zyabin101)
 
-##TL;DR version to include into files
+## Contribute
 
-	/**********************************************************
-	 * <program name> Copyleft <year> <author> <optional-email>
-	 * Licensed under the NPL v1 
-	 * <https//github.com/mspringer/NPL>
-	 *********************************************************/
+A huge aye on that! Every issue and PR is welcome.
+
+Every contributor to this repository must follow the code of conduct, which is: don't be rude.
+
+## License
+
+Everyone is permitted to copy and distribute verbatim or modified copies of the license documents contained in this repository, and changing them is allowed as long as the name is changed or whatever, this is just here out of necessity.
